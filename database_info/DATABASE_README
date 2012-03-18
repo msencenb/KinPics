@@ -1,0 +1,3 @@
+Following are images of the schema of KinPics.
+
+Trying to follow boyce codd normal form and good database style practices. Could do with some more foreign-key constraints and possibly some triggers to avoid dangling refs.

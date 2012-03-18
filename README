@@ -1,0 +1,7 @@
+Following repository is the node.js backend server and iOS client for KinPics. 
+
+Also note that this depends heavily on a postgresql database please go to the database_info folder for info on the schema of the database you need for this project.
+
+
+CS247 Winter 2012 Stanford University.
+Jieun Oh, Hongchan Choi, Sukwon Chung, Tyler Crimm, and Matt Sencenbaugh
